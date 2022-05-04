@@ -9,5 +9,5 @@ gcc -o client client.c -L/usr/local/lib -lpthread
 
 LUEGO EJECUTAMOS CON:
 
-./server <PUERTO>
- ./client <PUERTO>
+./server PUERTO
+ ./client PUERTO
