@@ -106,7 +106,7 @@ printf("Usage: %s <port>\n", argv[0]);
 return EXIT_FAILURE;
 }
 
-char *ip = "127.0.0.1";
+char *ip = "13.58.75.53";
 int port = atoi(argv[1]);
 
 signal(SIGINT, catch_ctrl_c_and_exit);
