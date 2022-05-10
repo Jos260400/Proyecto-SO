@@ -362,7 +362,7 @@
 	 return EXIT_FAILURE;
 	 }
 	
-	 char *ip = "172.31.26.40";
+	 char *ip = "18.221.139.84";
 	 int port = atoi(argv[1]);
 	
 	 int option = 1;
